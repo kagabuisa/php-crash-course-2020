@@ -20,7 +20,7 @@ echo str_repeat($statt,3);
 echo $statt;
 ?>
 <?php
-echo "hello Kampala"."<br>";
+echo "hello Salama Busingye"."<br>";
 ?>
 </body>
 </html>
